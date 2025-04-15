@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://publish-p9552-e1385456.adobeaemcloud.com/bin/franklin.delivery/rfreemo/eds-karate-xwalk/main"
+    url: "https://author-p9552-e1385456.adobeaemcloud.com/bin/franklin.delivery/rfreemo/eds-karate-xwalk/main"
     type: "markup"
     suffix: ".html"
