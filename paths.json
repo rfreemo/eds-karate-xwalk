@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/wknd/us/:/"
+    "/content/wknd/us/en/magazine/ski-touring:/index.html"
   ],
   "includes": [
-    "/content/wknd/us/"
+    "/content/wknd/us/en/magazine/ski-touring"
   ]
 }
