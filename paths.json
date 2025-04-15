@@ -5,6 +5,8 @@
     "/content/wknd/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/wknd/"
+    "/content/wknd/us/",
+    "/content/wknd/configuration",
+    "/content/wknd/metadata"
   ]
 }
